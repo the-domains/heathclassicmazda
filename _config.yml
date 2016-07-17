@@ -1,0 +1,14 @@
+layout_spectrum: 0.5423647444695234
+typography_spectrum: 0.768381469650194
+color:
+  brandStrength: 0.8888391354121268
+  lightness: 0.7164605141151696
+  saturation: 0.7645150984171778
+  rhythmicContrast: 0.3323907221201807
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: HeathClassicMazda
